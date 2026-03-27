@@ -1,6 +1,6 @@
 # greencity-tests
 Перейдіть за посиланням:
-🔗 https://www.greencity.cx.ua/#/greenCity/events
+https://www.greencity.cx.ua/#/greenCity/events
 Створити 3 тест-кейси
 
     Описати тест-кейси у форматі .md
@@ -15,3 +15,4 @@
         Step 	Action 	Data 	Expected Result
         1 	... 	... 	...
         2 	... 	... 	...
+Автор роботи: Дикий Назар
